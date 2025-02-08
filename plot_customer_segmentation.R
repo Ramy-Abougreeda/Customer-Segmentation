@@ -221,6 +221,3 @@ function(top_n_products = 10,
     }
     
 }
-
-plot_customer_heatmap()
-
